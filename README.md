@@ -4,8 +4,8 @@ In the dynamic world of business, the ability to rapidly analyze sales data and 
 
 **Key Activities Undertaken:**
 
-**Data Acquisition:**  This process was essential for obtaining a comprehensive dataset that reflects our diverse sales channels and operations.
-**Data Preparation:** This step was crucial for eliminating inaccuracies, standardizing data formats, and ensuring a seamless analysis process.
+**Data Acquisition:**  This process was essential for obtaining a comprehensive dataset that reflects our diverse sales channels and operations.<br> 
+**Data Preparation:** This step was crucial for eliminating inaccuracies, standardizing data formats, and ensuring a seamless analysis process.<br> 
 **Report Development:** With a clean and structured dataset, we then proceeded to construct a detailed report. This report includes a title that succinctly captures the essence of our analysis, three visually engaging charts that provide insights into profit, success by country/region, and promising products/segments, and a slicer for dynamic data exploration.<br> 
  **Insight Generation:** Through our analytical efforts, we identified the month and year of peak profitability, the countries or regions where our company excels, and the products and customer segments that are most beneficial to our bottom line. These insights are critical for strategic planning and resource allocation.
 
